@@ -1,0 +1,6 @@
+@Dimitri.ACT.EntryMS_HostAddress = http://localhost:5034
+
+GET {{Dimitri.ACT.EntryMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
