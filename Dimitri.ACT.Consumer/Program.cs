@@ -23,7 +23,6 @@ IHost host = Host.CreateDefaultBuilder(args)
                     h.Password(password);
                 });
 
-
                 cfg.ReceiveEndpoint(newEntryQueue, e =>
                 {
                     e.Consumer<NewEntryEvent>();

@@ -1,11 +1,6 @@
 ﻿using Bogus;
 using Dimitri.ACT.Core.DTOs;
 using Dimitri.ACT.Tests.Entities.Mock;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Dimitri.ACT.Tests.Entities
 {

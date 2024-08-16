@@ -1,6 +1,5 @@
 ﻿using Dimitri.ACT.Core.Entities;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
 
 namespace Dimitri.ACT.EntryMS.Data
 {

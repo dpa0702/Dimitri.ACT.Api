@@ -21,7 +21,6 @@ namespace Dimitri.ACT.Api.Controllers
             try
             {
                 await _entryService.NewEntry(dto);
-
                 return Ok();
             }
             catch (Exception ex)

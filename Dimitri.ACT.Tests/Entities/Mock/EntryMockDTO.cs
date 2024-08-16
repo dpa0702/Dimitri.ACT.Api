@@ -1,7 +1,5 @@
 ﻿using Bogus;
-using Bogus.DataSets;
 using Dimitri.ACT.Core.Enums;
-using static Bogus.DataSets.Name;
 
 namespace Dimitri.ACT.Tests.Entities.Mock
 {
