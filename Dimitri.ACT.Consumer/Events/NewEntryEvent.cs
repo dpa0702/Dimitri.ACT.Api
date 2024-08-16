@@ -24,7 +24,7 @@ namespace Dimitri.ACT.Consumer.Events
             var body = new StringContent(jsonContent, Encoding.UTF8, "application/json");
             body.Headers.ContentType = new MediaTypeHeaderValue("application/json");
 
-            _entryClient.PostAsync("/entry", body);
+            _entryClient.PostAsync("https://localhost:9003/entry", body);
 
             return Task.CompletedTask;
         }
