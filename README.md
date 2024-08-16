@@ -86,7 +86,41 @@ Com tudo preparado é só clicar no botão Iniciar na barra de ferramentas do Vi
 
 ![image](https://github.com/user-attachments/assets/29debecc-72a3-43c1-a2e4-46e0cf5b837b)
 
+## Exemplo de um fluxo de trabalho
 
+Abaixo veremos ainserção de uma transação no banco de dados:
 
+### Utilizando o sistema para inserir uma transação (Negativo):
 
+![image](https://github.com/user-attachments/assets/cc12588d-f688-43b3-8e13-9464c2f625a7)
+
+#### Banco de Dados
+
+![image](https://github.com/user-attachments/assets/bf5ac74e-460f-4bd0-b566-bda172412c90)
+
+### Utilizando o sistema para inserir uma transação (Positivo):
+
+![image](https://github.com/user-attachments/assets/f797dd35-60f1-4fde-90cb-72921a35e7ac)
+
+#### Banco de Dados
+
+![image](https://github.com/user-attachments/assets/1b7ee21b-f033-4d8f-b204-ced8388841fa)
+
+### Utilizando o sistema para consultar o consolidado do dia:
+
+![image](https://github.com/user-attachments/assets/051c3f49-fb7c-4f17-bde4-51a8a60d64c2)
+
+## Considerações Finais
+
+É possível consultar todas as transações:
+
+![image](https://github.com/user-attachments/assets/634078c4-8c0d-4045-8252-e9b7d7fc46b1)
+
+É possível consultar a transação pelo Id:
+
+![image](https://github.com/user-attachments/assets/5de412be-dee4-4b83-ac8c-8f00dd5d91c4)
+
+Banco de dados Total:
+
+![image](https://github.com/user-attachments/assets/b4a146fd-7682-43f3-bd05-5ca61a50fb02)
 
