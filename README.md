@@ -78,7 +78,7 @@ Clicar com o botão direito do mouse em qualquer um dos projetos na solução e 
 
 ![image](https://github.com/user-attachments/assets/ee2ef3a9-bc83-45da-a8c4-1a0008e4d6e9)
 
-Na caixa de dialogo que será exibida, marcar a opção "Multiple startup projects", e selecionar a ação "Start" para todos os projetos, exceto o Core.
+Na caixa de dialogo que será exibida, marcar a opção "Multiple startup projects", e selecionar a ação "Start" para todos os projetos, exceto o Core e Tests.
 
 ![image](https://github.com/user-attachments/assets/c17ed23e-b5aa-4d47-aa87-2898746de9be)
 
